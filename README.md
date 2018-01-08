@@ -14,6 +14,8 @@
 * JDK版本：jdk1.8
 * Tomcat版本：Tomcat8.x
 ### 2、初始化项目
+
+* git clone https://github.com/marshuo/ExamSystem.git 
 * 在你的Mysql中，导入sql/db_examsystem.sql，执行该脚本，默认创建一个名称为db_examsystem的数据库。
 * 打开c3p0-config.xml配置文件，把数据库名称，登录名和密码，改为你本地的。
 * 使用 IntelliJ IDEA 直接打开项目。
